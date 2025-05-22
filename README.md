@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ⚡ **40x performance improvements** through optimization and smart architecture  
 💰 **$6B+ revenue impact** from technical solutions enabling new market entry  
 🌐 **Industry leadership** in decentralized identity and blockchain technologies  
-📡 **NK8Z** - Extra class amateur radio operator
 
 ---
 
