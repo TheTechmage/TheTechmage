@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-**Senior Software Engineer | Performance & Reliability Specialist**
+**Staff Software Engineer | Performance & Reliability Specialist**
 
 🚀 **12+ years** building high-performance backend systems that scale  
 ⚡ **40x performance improvements** through optimization and smart architecture  
